@@ -3,4 +3,4 @@
 Установка зависимостей: git install
 
 Запуск: npm start
-Сборка: npm build
+Сборка: npm run build
